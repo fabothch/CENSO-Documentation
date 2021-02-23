@@ -210,5 +210,5 @@
 | funcOR | Functional employed to calculate the optical rotatory \(OR\) dispersion. |
 | funcOR\_SCF | Functional to generate converged MOs. |
 | basisOR | Basis set employed for the OR calculation. |
-| frequency\_optical\_rot | List of frequencies in nm to evaluate OR at e.g. \[589.0\]. |
+| frequency\_optical\_rotv | List of frequencies in nm to evaluate OR at e.g. \[589.0\]. |
 

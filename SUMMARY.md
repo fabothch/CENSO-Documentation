@@ -5,6 +5,7 @@
 * [Censorc keyword definitions](censorc-keyword-definitions.md)
 * [Abbreviations](abbreviations.md)
 * [Thresholds](thresholds.md)
+* [Solvation](solvation.md)
 * [Usage examples](usage-examples.md)
 * [Trouble shooting](trouble-shooting.md)
 
