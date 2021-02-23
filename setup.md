@@ -142,7 +142,7 @@ $END CENSORC
 {% endtab %}
 {% endtabs %}
 
-Upon the first usage of CENSO a folder '~/.censo\_assets/'  will be created. It contains a file  ~/.censo\_assets/censo\_solvents.json with information on all available solvents and solvent models. If a solvent is not available with a certain solvent model, the user can then choose a replacement solvent, e.g. if benzene is not available choose toluene. This file is directly used in censo and typos will cause the calculation with the repective solvent to crash.
+Upon the first usage of CENSO a folder '~/.censo\_assets/'  will be created. It contains a file  ~/.censo\_assets/censo\_solvents.json with information on all available solvents and solvent models. If a solvent is not available with a certain solvent model, the user can then choose a replacement solvent, e.g. if benzene is not available choose toluene. This file is directly used in censo and typos will cause the calculation with the repective solvent to crash. For further information: [Solvation](solvation.md).  
 
 {% tabs %}
 {% tab title="-->" %}
